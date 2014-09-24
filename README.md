@@ -553,7 +553,9 @@ A seperate library, pandasql, allows you to make SQL queries on dataframes.
 
 ###NLTK
 
-Just like the Alchemy API, but free.
+Natural Language ToolKit. If you ever want to perform language analysis, look no further
+
+Just like the Alchemy API, but free and more dynamic.
 
 [More on NLTK](http://www.nltk.org/)
 [Free Book](http://victoria.lviv.ua/html/fl5/NaturalLanguageProcessingWithPython.pdf)
