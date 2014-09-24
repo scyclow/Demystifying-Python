@@ -23,13 +23,13 @@ some stuff
 ```
 
 The syntax is different in a few small places: 
-		* manditory parenthesis
-		* no implicit returns
-		* whitespace instead of end statements
-		* colons
-		* different elsif
-		* different && and || opperators
-		* uppercase true and false
+* manditory parenthesis
+* no implicit returns
+* whitespace instead of end statements
+* colons
+* different elsif
+* different && and || opperators
+* uppercase true and false
 
 ```
 In [5]: def func(x,y,z):
@@ -66,8 +66,8 @@ Out[12]: False
 ```
 
 But the idea is the same:
-		* Do as much as possible in as few words as possible
-		* Emphasize readability and programmer productivity
+* Do as much as possible in as few words as possible
+* Emphasize readability and programmer productivity
 
 ###Syntactical tricks
 
