@@ -5,7 +5,7 @@ A Quick(ish) tutorial for Rubyists curious about learning Python.
 
 ##More similarities than differences
 
-Both languages are high-level, dynamically typed, and object-oriented.Overall, they are pretty similar. But, they evolved in slightly different directions. 
+Both languages are high-level, dynamically typed, and object-oriented. Overall, they are pretty similar. But, they evolved in slightly different directions. 
 
 The same basic rules apply:
 
