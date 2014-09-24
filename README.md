@@ -1,7 +1,7 @@
 Demystifying Python
 ===================
 
-A Quick(ish) tutorial for Rubyists curios about learning Python.
+A Quick(ish) tutorial for Rubyists curious about learning Python.
 
 ##More similarities than differences
 
